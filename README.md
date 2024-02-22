@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @BarouniAbir
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning big data and data analysis
 - 📫 How to reach me ?
 Linkedin = "https://www.linkedin.com/in/barouni-abir-3a16671a3/"
 

@@ -39,5 +39,5 @@ I'm a passionate **software engineer** with experience building **mobile and web
 ## 🌟 Fun Facts
 - I speak **5 languages**: Arabic, French, English, Chinese, and Italian 🇹🇳🇫🇷🇬🇧🇨🇳🇮🇹  
 - I love creating meaningful apps and contributing to open-source projects.  
-- Curious mind — always learning something new 🚀
+- Curious mind always learning something new 🚀
 
